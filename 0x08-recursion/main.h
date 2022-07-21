@@ -12,5 +12,8 @@ int isqrt(int x, int y);
 int is_prime_number(int n);
 int variableHolder(int num);
 int increment(int i, int j);
+int is_palindrome(char *s);
+int last_index(char *s);
+int check(char *s, int start, int end, int pair);
 
 #endif
